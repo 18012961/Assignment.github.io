@@ -34,6 +34,7 @@ nav a{
  padding: 20px;
 font-style: normal;
 text-decoration: none;
+font-size: medium;
    
 }
 
@@ -66,11 +67,9 @@ border-color: #000000;
 
 .menu-links > a {
  padding: 2px;
- font-size: 32px;
+ font-size: 16px;
  text-align: left;
- 
-
-}
+ }
 
 
 p{
